@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Use jest as a unit test runner
-- Integrate cucumber.js for e2e tests with protractor
-- Use eslint instead of tslint
+- Added jest as a unit test runner
+- Added cucumber.js for e2e tests with protractor
+- Added eslint instead of tslint
+- Added json-server as mock backend
