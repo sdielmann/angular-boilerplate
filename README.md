@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/github/v/tag/sdielmann/angular-boilerplate)
+![Keywords](https://img.shields.io/github/package-json/keywords/sdielmann/angular-boilerplate)
+![Last Commit](https://img.shields.io/github/last-commit/sdielmann/angular-boilerplate)
+![Keywords](https://img.shields.io/github/issues-raw/sdielmann/angular-boilerplate)
+
 # Steffen's Angular Boilerplate Project
 
 This project is based on [Angular CLI](https://github.com/angular/angular-cli) on version 11.2.2. The default CLI project setup has been adapted:

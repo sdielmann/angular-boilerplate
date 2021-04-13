@@ -10,6 +10,7 @@
     "e2e": "ng e2e",
     "backend-mock": "ts-node --project backend-mock/tsconfig.json -r ./backend-mock/main.ts"
   },
+  "keywords": ["angular", "boilerplate"],
   "private": true,
   "dependencies": {
     "@angular/animations": "~11.2.3",
